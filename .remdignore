@@ -1,0 +1,17 @@
+APP.md
+README.md
+PROMPT.md
+*.png
+*.svg
+*.ico
+*.mp4
+*.y4m
+.git/
+*-lock.*
+LICENSE
+*.otf
+*.pdf
+mail_body
+chromedriver
+.next/
+.vercel/
