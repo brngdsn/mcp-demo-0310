@@ -2,8 +2,8 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>MCP-DEMO-0310</h1>
-<h3>◦ A powerful Weather API client using Model Context Protocol!</h3>
-<h3>◦ Developed with the software and tools below.</h3>
+<h3>An AI-Driven Weather API Client Using Model Context Protocol</h3>
+<h3>Built with the latest tools and technologies</h3>
 
 <p align="center">
 <img src="https://img.shields.io/github/license/brngdsn/mcp-demo-0310?style=flat-square&color=5D6D7E" alt="GitHub license" />
@@ -28,13 +28,13 @@
 
 📖 **About the Project**
 
-This project showcases a simple yet powerful client-server interaction for obtaining weather data. Built using the Model Context Protocol, it exemplifies how easy it can be to integrate AI-driven functionalities with a traditional client-server architecture.
+MCP-DEMO-0310 is a sophisticated client-server application that leverages AI-powered autonomous decision-making to retrieve weather data dynamically. Utilizing the **Model Context Protocol (MCP)**, this project showcases how an AI agent can intelligently select tools and process queries in real-time, demonstrating a new paradigm in API interactions.
 
 🎯 **Features**
-- Connect to a weather API server.
-- Retrieve the current weather based on user inputs.
-- Access location data with dynamic tools.
-- Interactive command-line interface for real-time querying.
+- AI-driven **agentic query processing** powered by an LLM.
+- Autonomous **tool selection** for dynamic responses.
+- Real-time **weather data retrieval** from an API.
+- Interactive **command-line interface** for seamless user interaction.
 
 🚀 **Quick Start**
 1. Clone the repository:
@@ -49,36 +49,37 @@ This project showcases a simple yet powerful client-server interaction for obtai
    ```bash
    npm install
    ```
-4. Run the server first:
+4. Start the server:
    ```bash
    node build/server.js
    ```
-5. In a new terminal, run the client:
+5. Run the client in a new terminal:
    ```bash
    npm start build/client.js
    ```
 
 🛠️ **Tech Stack**
-- Node.js
-- TypeScript
-- Model Context Protocol SDK
-- Chalk for terminal text styling
-- Zod for schema validation
+- **Node.js** – Backend runtime
+- **TypeScript** – Statically typed JavaScript
+- **Model Context Protocol SDK** – AI-driven tool selection
+- **Chalk** – Terminal text styling
+- **Zod** – Schema validation
 
 📂 **Folder Structure**
 ```
 mcp-demo-0310/
 ├── build/               # Compiled files
 ├── src/                 # Source files
-│   ├── client.ts         # Client implementation for querying
-│   └── server.ts         # Server setup for handling requests
-├── .gitignore           # Ignore files for git
-├── .nvmrc               # Node version management
+│   ├── client.ts        # AI-powered client processing queries
+│   └── server.ts        # Handles API interactions
+├── .gitignore           # Git ignore rules
+├── .nvmrc               # Node.js version management
 ├── package.json         # Project dependencies and scripts
 └── tsconfig.json        # TypeScript configuration
 ```
 
-📜 **License & Credits**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+📜 **License & Contributions**
+This project is open-source under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-For contributions or questions, please open an issue or submit a pull request on the GitHub repository. Happy coding!
+Contributions and feedback are welcome! Submit issues or pull requests via GitHub. Happy coding! 🚀
+
