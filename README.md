@@ -49,13 +49,9 @@ MCP-DEMO-0310 is a sophisticated client-server application that leverages AI-pow
    ```bash
    npm install
    ```
-4. Start the server:
+5. Run the client against the server in a new terminal:
    ```bash
-   node build/server.js
-   ```
-5. Run the client in a new terminal:
-   ```bash
-   npm start build/client.js
+   node build/client.js build/server.js
    ```
 
 🛠️ **Tech Stack**
