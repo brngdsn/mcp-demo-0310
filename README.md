@@ -2,7 +2,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>MCP-DEMO-0310</h1>
-<h3>An AI-Driven Weather API Client Using Model Context Protocol</h3>
+<h3>Model Context Protocol with Ollama</h3>
 <h3>Built with the latest tools and technologies</h3>
 
 <p align="center">
